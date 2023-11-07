@@ -1,4 +1,5 @@
-![Hi, My Name is Daniel](https://github.com/usuariodaniel/usuariodaniel/assets/126373330/93218ab6-b487-4781-ac39-0ecc97681292)
+![Hi, My Name is Daniel (1)](https://github.com/usuariodaniel/usuariodaniel/assets/126373330/2f887e39-737f-46ba-953a-d9548901644f)
+
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I'm 29 years old and am in an exciting career transition process to become a Full-Stack Developer. My passion for technology and my love ❤️ for challenges drive me to constantly seek new ways to learn and grow in this challenging field.</p>&nbsp;
