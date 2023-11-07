@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/usuariodaniel/usuariodaniel/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+![Hi, My Name is Daniel](https://github.com/usuariodaniel/usuariodaniel/assets/126373330/93218ab6-b487-4781-ac39-0ecc97681292)
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I'm 29 years old and am in an exciting career transition process to become a Full-Stack Developer. My passion for technology and my love ❤️ for challenges drive me to constantly seek new ways to learn and grow in this challenging field.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=usuariodaniel&theme=radical&mode=weekly" />
