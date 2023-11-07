@@ -4,8 +4,8 @@
 <p align="center">I'm 29 years old and am in an exciting career transition process to become a Full-Stack Developer. My passion for technology and my love ❤️ for challenges drive me to constantly seek new ways to learn and grow in this challenging field.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=usuariodaniel&theme=radical&mode=weekly" />
-<img width=32% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usuariodaniel&theme=radical" />
+<img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usuariodaniel&theme=radical" /> 
+<img width=29% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usuariodaniel&theme=radical" />
  </div>
  
  &nbsp;
