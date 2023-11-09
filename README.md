@@ -50,9 +50,9 @@
 <a href="https://www.linkedin.com/in/daniel-soares-de-queiroz-206466177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src=""/>
+ <br>
+  <h2> 🐍 Watch a snake-eating my contribution graph 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/usuariodaniel/usuariodaniel/output/github-contribution-grid-snake.svg"/>
 
 
  
