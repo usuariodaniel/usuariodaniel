@@ -23,7 +23,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/usuariodaniel/usuariodaniel/assets/126373330/788ca11c-5703-4ee2-9d04-b2b4490db879" min-width="400px" max-width="400px" width="350px" align="right" alt="My Octocat">
 
 #### Studying in this moment:
 
